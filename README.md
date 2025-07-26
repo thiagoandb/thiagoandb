@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thiago+Brasiliano;I'm+30+years+old;I'm+from+Brazil;I'm+Studying+to+automate+IT+support+processes.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thiagoandb&bg_color=000000&color=DCDCDC&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
